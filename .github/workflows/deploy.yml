@@ -1,0 +1,108 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install Backend Dependencies
+        working-directory: ./backend
+        run: npm install
+
+      - name: Run Backend Tests
+        working-directory: ./backend
+        run: npm test --if-present
+
+      - name: Install Admin Dependencies
+        working-directory: ./admin
+        run: npm install
+
+      - name: Build Admin React App
+        working-directory: ./admin
+        run: npm run build
+
+      - name: Check Admin build output
+        working-directory: ./admin
+        run: |
+          echo "Admin directory contents:"
+          ls -la .
+          echo ""
+          echo "Admin dist directory (if present):"
+          ls -la dist || echo "ERROR: dist directory not found"
+
+      - name: Install Employee Dependencies
+        working-directory: ./employee
+        run: npm install
+
+      - name: Build Employee React App
+        working-directory: ./employee
+        run: npm run build
+
+      - name: Check Employee build output
+        working-directory: ./employee
+        run: |
+          echo "Employee directory contents:"
+          ls -la .
+          echo ""
+          echo "Employee dist directory (if present):"
+          ls -la dist || echo "ERROR: dist directory not found"
+
+      - name: Install User Dependencies
+        working-directory: ./user
+        run: npm install
+
+      - name: Build User React App
+        working-directory: ./user
+        run: npm run build
+
+      - name: Check User build output
+        working-directory: ./user
+        run: |
+          echo "User directory contents:"
+          ls -la .
+          echo ""
+          echo "User dist directory (if present):"
+          ls -la dist || echo "ERROR: dist directory not found"
+
+      - name: Copy Builds to Backend
+        run: |
+          rm -rf ./backend/public
+          mkdir -p ./backend/public
+
+          for app in admin employee user; do
+            echo "Checking ./$app/dist..."
+            if [ -d "./$app/dist" ]; then
+              echo "Copying ./$app/dist -> ./backend/public/$app"
+              cp -r "./$app/dist" "./backend/public/$app"
+              echo "✓ Successfully copied $app"
+            else
+              echo "ERROR: ./$app/dist not found!" >&2
+              echo "Listing $app directory for debugging:" >&2
+              ls -la "./$app" || true
+              echo "FAILED: Cannot proceed without all build artifacts" >&2
+              exit 1
+            fi
+          done
+
+          echo ""
+          echo "Build artifacts copied successfully!"
+          echo "Backend public directory structure:"
+          ls -la ./backend/public
