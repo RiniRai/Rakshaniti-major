@@ -384,171 +384,19 @@ Report bugs and issues or propose improvements through our GitHub repository's "
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
  
-## Contributing is fun🧡
 
-We welcome all contributions and suggestions!
-Whether it's a new feature, design improvement, or a bug fix - your voice matters 💜
 
-Your insights are invaluable to us. Reach out to us team for any inquiries, feedback, or concerns.
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 id="acknowledgments">🙏 Acknowledgments</h2>
 
-- Thanks to all contributors of this project
-- Special shoutout to **GirlScript Summer of Code (GSSoC’25)** for the amazing community and support!
-- Built with dedication, collaboration, and lots of chai
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 id="contact">📞 Contact</h2>
 
-- **Developed by [Eccentric Explorer](https://eccentriccoder01.github.io/Me)**
-- **GitHub Issues**: [Report bugs or request features](https://github.com/eccentriccoder01/Rakshaniti/issues)
-- **Email**: Contact the maintainers for collaboration opportunities
 
-_Feel free to reach out with any questions or feedback!_
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 id="how-to-contribute">🤝How to Contribute</h2>
 
-We love contributions from the community! Whether it's a bug report, a new feature, or a documentation improvement, we appreciate your help.
-
-**_How to Contribute_**
-
-1.  **Fork the repository** and create a new branch for your changes.
-2.  **Make your changes** and ensure everything is working as expected.
-3.  **Submit a pull request** with a clear description of your changes.
-
-**_Found a Bug?_**
-
-- Check the [issue tracker](https://github.com/eccentriccoder01/Rakshaniti/issues) to see if the bug has already been reported.
-- If not, open a new issue and provide as much detail as possible.
-
-**_Have a Feature Idea?_**
-
-- We'd love to hear it! Open an issue to discuss your idea.
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 id="contributing">🤝 Contributing</h2>
-
-We welcome contributions from developers of all skill levels! Here are some ways you can contribute:
-
-### Ways to Contribute
-
-- 🐛 Bug fixes - Help us identify and fix bugs
-- ✨ New features - Suggest and implement new functionality
-- 📚 Documentation - Improve our docs and guides
-- 🎨 UI/UX improvements - Make the platform more user-friendly
-- 🔧 Performance optimizations - Help make Rakshaniti faster and more efficient
-- 🌐 Translations - Help make Rakshaniti accessible in more languages
-- 📱 Mobile responsiveness - Improve the mobile experience
-- 🔒 Security enhancements - Help keep user data safe
-
-_Thank you to everyone who has made Rakshaniti better! 💚_
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 id="code-of-conduct">📜 Code of Conduct</h2>
-
-Please refer to the [`Code of Conduct`](https://github.com/eccentriccoder01/Rakshaniti/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 id="contribution-guidelines">🤝👤 Contribution Guidelines</h2>
-
-We love our contributors! If you'd like to help, please check out our [`CONTRIBUTE.md`](https://github.com/eccentriccoder01/Rakshaniti/blob/main/CONTRIBUTING.md) file for guidelines.
-
-> Thank you once again to all our contributors who has contributed to **Rakshaniti!** Your efforts are truly appreciated. 💖👏
-
-<!-- Contributors badge (auto-updating) -->
-
-[![Contributors](https://img.shields.io/github/contributors/eccentriccoder01/Rakshaniti?style=for-the-badge)](https://github.com/RhythmPahwa14/eccentriccoder01/Rakshaniti/contributors)
-
-<!-- Contributors avatars (auto-updating) -->
-<p align="left">
-  <a href="https://github.com/eccentriccoder01/Rakshaniti/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=eccentriccoder01/Rakshaniti" alt="Contributors" />
-  </a>
-</p>
-
-See the full list of contributors and their contributions on the [`GitHub Contributors Graph`](https://github.com/eccentriccoder01/Rakshaniti/graphs/contributors).
 
  
 
-<h2 align="center">
-<p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository!
-</p>
-</h2>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 id="suggestions-feedback">💡 Suggestions & Feedback</h2>
-
-Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 id="show-your-support">🙌 Show Your Support</h2>
-
-_If you find Rakshaniti project helpful, give it a star! ⭐ to support more such educational initiatives:_
-
-- ⭐ **Starring the repository**
-- 🐦 **Sharing on social media**
-- 💬 **Telling your friends and colleagues**
-- 🤝 **Contributing to the project**
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 id="license">📄 License</h2>
-
-This project is licensed under the MIT License - see the [`License`](https://github.com/eccentriccoder01/Rakshaniti/blob/main/LICENSE) file for details.
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 id="stargazers">⭐ Stargazers</h2>
-
-<div align="center">
-  <a href="https://github.com/eccentriccoder01/Rakshaniti/stargazers">
-    <img src="https://reporoster.com/stars/eccentriccoder01/Rakshaniti?type=svg&limit=100&names=false" alt="Stargazers" />
-  </a>
-</div>
-
- 
-
-<h2 id="forkers">🍴 Forkers</h2>
-
-<div align="center">
-  <a href="https://github.com/eccentriccoder01/Rakshaniti/members">
-    <img src="https://reporoster.com/forks/eccentriccoder01/Rakshaniti?type=svg&limit=100&names=false" alt="Forkers" />
-  </a>
-</div>
-
- 
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Give us a Star and let's make magic! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h1>
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="150" height="150" />
-</p>
-
- 
-
-<h3 align="center"> 👨‍💻 Built with ❤️ by Rakshaniti Team</h3>
-<p align="center">
-  <a href="https://github.com/eccentriccoder01/Rakshaniti/issues">Open an Issue</a> | <a href="https://github.com/eccentriccoder01/Rakshaniti">🌟 Star on GitHub</a> | <a href="https://Rakshaniti.vercel.app/">🚀 Live Demo</a></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-
-<p align="center">
-  <a href="#top" style="font-size: 18px; padding: 8px 16px; display: inline-block; border: 1px solid #ccc; border-radius: 6px; text-decoration: none;">
-    ⬆️ Back to Top
-  </a>
-</p>
- 
-
-> Ready to show off your coding achievements? Get started with **Rakshaniti** today! 🚀
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
