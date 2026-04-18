@@ -38,17 +38,8 @@
   - [Backend Setup](#installation-setup)
   - [Frontend Setup](#installation-setup)
 - [🛠️ Troubleshooting](#troubleshooting)
-- [✴ Issue Creation](#issue-creation)
-- [📑 Contribution Guidelines](#contribution-guidelines)
-- [📞 Contact](#contact)
-- [🤝 Contributing](#contributing)
-  - [Ways to Contribute](#ways-to-contribute)
-- [📜 Code of Conduct](#code-of-conduct)
-- [💡 Suggestions & Feedback](#suggestions-feedback)
-- [🙌 Show Your Support](#show-your-support)
-- [📄 License](#license)
-- [⭐ Stargazers](#stargazers)
-- [🍴 Forkers](#forkers)
+
+
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
