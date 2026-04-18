@@ -367,22 +367,8 @@ npm run dev
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Issue Creation ✴
 
-Report bugs and issues or propose improvements through our GitHub repository's "Issues" tab.
 
-## Contribution Guidelines 📑
-
-- Firstly Star(⭐) the Repository
-- Fork the Repository and create a new branch for any updates/changes/issue you are working on.
-- Start Coding and do changes.
-- Commit your changes
-- Create a Pull Request which will be reviewed and suggestions would be added to improve it.
-- Add Screenshots and updated website links to help us understand what changes is all about.
-
-- Check the [CONTRIBUTING.md](CONTRIBUTING.md) for detailed steps...
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
  
 
 
